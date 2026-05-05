@@ -187,14 +187,3 @@ npm run dev
 
 ---
 
-## 🧑‍💻 Author
-
-**Anurag Dubey** — [github.com/iamanu26](https://github.com/iamanu26)
-
----
-
-<div align="center">
-
-⭐ Star it &nbsp;·&nbsp; 🍴 Fork it &nbsp;·&nbsp; 📢 Share it
-
-</div>
